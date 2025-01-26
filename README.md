@@ -1,4 +1,4 @@
-# Python Calculator
+# Python Unit Converter
 
 A simple Python unit converter application where users can input one number and select a conversion method (Length, Weight, Temperature) to get the result.
 
