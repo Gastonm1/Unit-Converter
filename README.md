@@ -6,11 +6,11 @@ A simple Python unit converter application where users can input one number and 
 
 ## Features
 
-- Perform basic arithmetic operations:
-  - Reusable Functions
-  - Handling User Inputs
-  - Conditional Logic
-  - Raising Errors
+- Perform basic conversion of measurement units:
+- Reusable Functions
+- Handling User Inputs
+- Conditional Logic
+- Raising Errors
 - User-friendly command-line interface.
 
 ---
