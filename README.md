@@ -20,7 +20,7 @@ A simple Python unit converter application where users can input one number and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gastonm1/Unit-Converter.git
-   cd unit-converter
+   cd unit_converter
    ```
 2. Run the Python script
 
